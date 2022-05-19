@@ -14,21 +14,37 @@ export function Header() {
         <img
           className="logo"
           src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"
+          alt="Logo-Instagram"
         />
         <div className="input-fake">
           <IconContext.Provider value={{ color: "#8e8e8e" }}>
             <AiOutlineSearch />
           </IconContext.Provider>
-          <input placeholder="Pesquisar" />
+          <input placeholder="Search" />
         </div>
         <div className="menu-icons">
           <IconContext.Provider value={{ size: "26px" }}>
-            <BsFillHouseFill />
-            <RiMessengerFill />
-            <AiOutlinePlusCircle />
-            <MdOutlineExplore />
-            <FiHeart />
+            <div>
+              <BsFillHouseFill />
+            </div>
+            <div>
+              <RiMessengerFill />
+            </div>
+            <div>
+              <AiOutlinePlusCircle />
+            </div>
+            <div>
+              <MdOutlineExplore />
+            </div>
+            <div>
+              <FiHeart />
+            </div>
           </IconContext.Provider>
+          <img
+            className="profile-image"
+            src="https://github.com/ibtriz.png"
+            alt="profile"
+          />
         </div>
       </div>
     </header>
