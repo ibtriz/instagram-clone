@@ -1,0 +1,21 @@
+.main-grid{
+    display: grid;
+
+    grid-template-areas: "firstColumn secondColumn";  /* nomeou as colunas*/ 
+    grid-template-columns: 614px 293px;  /* qual a largura de cada uma*/ 
+    grid-gap: 35px;
+
+    max-width: 957px;
+    margin: 100px auto;
+}
+
+.box{
+    background: var(--background);
+    border: 1px solid var(--border);
+}
+.suggestion-box {
+    flex: 1;
+    position: fixed;
+    max-width: 293px;
+
+}
