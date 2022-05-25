@@ -42,7 +42,7 @@ export function Header() {
           </IconContext.Provider>
           <img
             className="profile-image"
-            src="https://github.com/ibtriz.png"
+            src="https://www.personality-database.com/profile_images/23415.png"
             alt="profile"
           />
         </div>

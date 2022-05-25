@@ -2,6 +2,7 @@ import { Fragment } from "react";
 import "../style/layout.css";
 import { Post } from "./post";
 import { Story } from "./story";
+import { Suggestion } from "./suggestion";
 
 export function Layout() {
   return (
@@ -18,7 +19,7 @@ export function Layout() {
 
         <div style={{ gridArea: "secondColumn" }}>
           <div className="suggestion-box">
-            suggestion
+            <Suggestion/>
           </div>
         </div>
       </div>
