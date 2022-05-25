@@ -1,4 +1,4 @@
-#Instagram Clone
+# Instagram Clone
 
 Development of an instagram clone for study purposes, powered by ReactJS and StyledComponents.
 
