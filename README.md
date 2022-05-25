@@ -1,7 +1,7 @@
 # Instagram Clone
 
 
-Development of an instagram clone for study purposes, powered by ReactJS and StyledComponents
+Development of an instagram interface clone for study purposes, powered by ReactJS and StyledComponents
 #### See the Project
 - [Instagram](https://instagram-clone-pex8kxmxl-ibtriz.vercel.app/)
 
