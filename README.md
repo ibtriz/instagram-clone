@@ -3,7 +3,7 @@
 
 Development of an instagram clone for study purposes, powered by ReactJS and StyledComponents
 #### See the Project
-- [Instagram](https://bmi-calculator-gamma.vercel.app/](https://instagram-clone-pex8kxmxl-ibtriz.vercel.app/)
+- [Instagram](https://instagram-clone-pex8kxmxl-ibtriz.vercel.app/)
 
 ## 👀 At a Glance
 
